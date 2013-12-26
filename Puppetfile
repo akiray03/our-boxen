@@ -74,6 +74,7 @@ github "mysql",          "1.2.0" # via homebrew
 #github "postgresql",     "2.0.0" # via homebrew
 github "phantomjs",      "2.1.0" # via homebrew
 github "imagemagick",    "1.2.0" # via homebrew
+github "python",         "1.1.1" # via homebrew
 
 # local application for develop
 #github "postgresapp",    "1.0.0"
