@@ -60,7 +60,7 @@ github "xquartz",    "1.1.0"
 #
 github "osx",            "2.2.1"
 
-# lib
+## lib
 github "java",           "1.2.0"
 #github "php",            "1.1.4"
 #github "libtool",        "1.0.0" # use for php
@@ -72,11 +72,11 @@ github "zsh",            "1.0.0" # via homebrew
 github "heroku",         "2.0.0"
 github "mysql",          "1.2.0" # via homebrew
 #github "postgresql",     "2.0.0" # via homebrew
-github "phantomjs",      "2.1.0" # via homebrew
+github "phantomjs",      "2.0.2" # via homebrew
 github "imagemagick",    "1.2.0" # via homebrew
 github "python",         "1.1.1" # via homebrew
 
-# local application for develop
+## local application for develop
 #github "postgresapp",    "1.0.0"
 #github "pgadmin3",       "1.0.0"
 #github "sequel_pro",     "1.0.0"
@@ -88,11 +88,11 @@ github "pycharm",        "1.0.4"
 github "sublime_text_2", "1.1.2"
 github "chrome",         "1.1.2"
 github "firefox",        "1.1.7"
-github "omnigraffle",    "1.3.0"
+#github "omnigraffle",    "1.3.0"
 github "cyberduck",      "1.0.1"
 #github "handbrake",      "1.0.1"
 
-# local application for utility
+## local application for utility
 github "dropbox",        "1.2.0"
 github "skype",          "1.0.8"
 github "hipchat",        "1.1.0"
