@@ -12,7 +12,7 @@ class people::akiray03 {
   include osx::finder::show_hard_drives_on_desktop
   include osx::finder::show_mounted_servers_on_desktop
   include osx::finder::show_removable_media_on_desktop
-  include osx::finder::show_hidden_files
+  #include osx::finder::show_hidden_files
 
   # osx - Universal Access
   # include osx::universal_access::cursor_size
@@ -78,7 +78,8 @@ class people::akiray03 {
       'git-extras',
       'z',
       'ec2-api-tools',
-      'ec2-ami-tools'
+      'ec2-ami-tools',
+      'lv'
     ]:
   }
 
